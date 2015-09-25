@@ -1,3 +1,13 @@
+#Version Info
+
+##1.0.1
+
+Fixed Typo
+
+##1.0.0
+
+Release
+
 # Simple Usage
 
 ```
