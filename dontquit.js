@@ -1,6 +1,6 @@
 var dontquit = {
-    defaultText: "You sure you want to leave?",
-    Version: 1.0,
+    defaultText: "Are you sure you want to leave?",
+    Version: 1.0.1,
     Author: "Cosmic Web Services",
 	do: function(e){
         if(!e) e = window.event;
