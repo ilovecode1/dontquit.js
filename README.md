@@ -8,6 +8,16 @@ Fixed Typo
 
 Release
 
+#Tested Browsers
+
+##Works Great
+
+IE (Edge), Safari, Chrome
+
+##No Custom Text
+
+Firefox
+
 # Simple Usage
 
 ```
