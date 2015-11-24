@@ -12,7 +12,11 @@ Release
 
 ##Works Great
 
-IE (Edge), Safari, Chrome
+IE (Edge), Chrome
+
+#Meh
+
+Safari
 
 ##No Custom Text
 
